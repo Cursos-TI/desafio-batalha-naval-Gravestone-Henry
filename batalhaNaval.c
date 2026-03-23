@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 //desafio batalha naval  :P
 int main() {
     int tabuleiro[10][10];
